@@ -1,0 +1,2 @@
+# kali
+isprobavanje gita
