@@ -1,4 +1,4 @@
 #!/bin/bash
 
 ls /etc
-cat /etc/passwd
+cat /etc/shadow
